@@ -19,6 +19,8 @@ Welcome to my Project Guide! Here, I document a summary of my projects in the da
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
 | 🚗 [Transportation-DataScience-Project](https://github.com/feer-rodriguess90/Transportation-DataScience-Project) | Data analysis, data cleaning, data transformation, Data Viz | A project hosted by the Northeast Big Data Innovation Hub & National Student Data Corps, in collaboration with the U.S. Department of Transportation Federal Highway Administration. Analysis on collision patterns, geographic distributions, and temporal trends. |  pandas, matplotlib |  
+| 💰 [Investment Tracker](https://github.com/feer-rodriguess90/invista_me) | Web Application | Investment Tracker is a web application built using Django 4.2.6 that allows users to manage their investments, such as computers, courses, books, and more. It provides features for viewing, adding, editing, and deleting investments. The project is designed with a user authentication system to ensure secure interactions. | Django |
+| 🧾 [My Budget](https://github.com/feer-rodriguess90/My_Budget) | Web Application | My Budget is a personal financial management application that allows users to track their income, expenses, and view information through an intuitive dashboard and charts. | Dash, Plotly, Pandas, Numpy |
 
 ***
 
